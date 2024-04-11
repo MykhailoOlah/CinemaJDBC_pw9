@@ -1,0 +1,39 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¨…Æåùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Í æ”ùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ÅˆíÛüÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(±ğÏúÿÿÿÿ
+G
+java:S1144:"1Remove this unused private "createTicket" method.(´±€İ
+E
+java:S1144D"/Remove this unused private "allTickets" method.(ê¬ã
+H
+java:S1144K"2Remove this unused private "getTicketById" method.(»¿ğª
+L
+java:S1144O"1Remove this unused private "updateTicket" method.(ø¥±ùÿÿÿÿ
+L
+java:S1144W"1Remove this unused private "deleteTicket" method.(¼½Áõÿÿÿÿÿ
+E
+java:S1144Z"/Remove this unused private "createFilm" method.(›¥¨å
+H
+java:S1144f"-Remove this unused private "allFilms" method.(™İÔúÿÿÿÿ
+E
+java:S1144q"/Remove this unused private "updateFilm" method.(ÎÕò¯
+E
+java:S1144v"/Remove this unused private "deleteFilm" method.(¬»ªØ
+L
+java:S1144y"1Remove this unused private "deleteCinema" method.(Ø¹×Ôıÿÿÿÿ
+L
+java:S1144}"1Remove this unused private "updateCinema" method.(¥Ê¹¿ûÿÿÿÿ
+K
+java:S1144†"/Remove this unused private "allCinemas" method.(à™«ùÿÿÿÿÿ
+M
+java:S1144"1Remove this unused private "createCinema" method.(ÄÍ˜¨ıÿÿÿÿ
+M
+java:S1144•"1Remove this unused private "deleteClient" method.(é»µœøÿÿÿÿ
+G
+java:S1144™"1Remove this unused private "updateClient" method.(™ùÌn
+F
+java:S1144¡"/Remove this unused private "allClients" method.(€ ä
+M
+java:S1144¨"1Remove this unused private "createClient" method.(ÚÆÒÇıÿÿÿÿ
